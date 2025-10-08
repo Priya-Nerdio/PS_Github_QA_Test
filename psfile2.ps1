@@ -1,2 +1,2 @@
-ps test file1
+ps test file2
 updated
